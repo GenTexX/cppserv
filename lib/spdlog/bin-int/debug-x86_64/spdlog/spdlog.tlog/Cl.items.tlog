@@ -1,0 +1,7 @@
+F:\dev\deven\vendor\spdlog\src\async.cpp;F:\dev\deven\vendor\spdlog\bin-int\debug-x86_64\spdlog\async.obj
+F:\dev\deven\vendor\spdlog\src\bundled_fmtlib_format.cpp;F:\dev\deven\vendor\spdlog\bin-int\debug-x86_64\spdlog\bundled_fmtlib_format.obj
+F:\dev\deven\vendor\spdlog\src\cfg.cpp;F:\dev\deven\vendor\spdlog\bin-int\debug-x86_64\spdlog\cfg.obj
+F:\dev\deven\vendor\spdlog\src\color_sinks.cpp;F:\dev\deven\vendor\spdlog\bin-int\debug-x86_64\spdlog\color_sinks.obj
+F:\dev\deven\vendor\spdlog\src\file_sinks.cpp;F:\dev\deven\vendor\spdlog\bin-int\debug-x86_64\spdlog\file_sinks.obj
+F:\dev\deven\vendor\spdlog\src\spdlog.cpp;F:\dev\deven\vendor\spdlog\bin-int\debug-x86_64\spdlog\spdlog.obj
+F:\dev\deven\vendor\spdlog\src\stdout_sinks.cpp;F:\dev\deven\vendor\spdlog\bin-int\debug-x86_64\spdlog\stdout_sinks.obj

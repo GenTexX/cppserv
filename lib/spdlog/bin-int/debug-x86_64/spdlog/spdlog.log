@@ -1,0 +1,8 @@
+﻿  async.cpp
+  bundled_fmtlib_format.cpp
+  cfg.cpp
+  color_sinks.cpp
+  file_sinks.cpp
+  spdlog.cpp
+  stdout_sinks.cpp
+  spdlog.vcxproj -> F:\dev\deven\vendor\spdlog\bin\debug-x86_64\spdlog\spdlog.lib
