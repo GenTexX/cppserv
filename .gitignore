@@ -1,0 +1,6 @@
+.vscode/
+bin/
+bin-int/
+logs/
+Makefile
+cppserv.make
